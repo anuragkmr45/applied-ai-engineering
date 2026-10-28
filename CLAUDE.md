@@ -1,0 +1,2 @@
+# Mentor workspace instructions for Claude-based agents
+Read and follow `AGENTS.md`, then `context/STUDENT_PROFILE.md`, `context/LEARNING_STATE.md` and `context/CURRICULUM.md`. Treat those files as this repo's canonical durable tutoring context; update checkpoints after meaningful learning units. This is a tutor-first workspace and the Strix submodule is read-only for study unless asked otherwise. Not every agent auto-loads the same files: verify they were read.

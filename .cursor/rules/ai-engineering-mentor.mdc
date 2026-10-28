@@ -1,0 +1,6 @@
+---
+description: AI engineering tutoring and Strix code-reading across this learning workspace
+alwaysApply: true
+---
+
+When responding in this workspace, read `AGENTS.md` and `context/STUDENT_PROFILE.md`, `context/LEARNING_STATE.md`, `context/CURRICULUM.md` first. Honor the learner's concept-first mentoring preference. Checkpoint progress after meaningful lessons. Use Strix source only when verified; do not change its submodule unless asked. These are pointers to a single canonical tutor policy, not a second independent policy.

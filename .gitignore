@@ -1,0 +1,17 @@
+# Local environment, secrets and outputs
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+*.log
+.tmp/
+tmp/
+output/
+artifacts/
+# Avoid capturing local provider credentials, sessions or code-search caches
+.codex/
